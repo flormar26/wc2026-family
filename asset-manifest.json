@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wc2026-family/static/css/main.90717fbb.css",
+    "main.js": "/wc2026-family/static/js/main.d61477c3.js",
+    "static/js/453.19d9836f.chunk.js": "/wc2026-family/static/js/453.19d9836f.chunk.js",
+    "index.html": "/wc2026-family/index.html",
+    "main.90717fbb.css.map": "/wc2026-family/static/css/main.90717fbb.css.map",
+    "main.d61477c3.js.map": "/wc2026-family/static/js/main.d61477c3.js.map",
+    "453.19d9836f.chunk.js.map": "/wc2026-family/static/js/453.19d9836f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90717fbb.css",
+    "static/js/main.d61477c3.js"
+  ]
+}
